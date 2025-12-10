@@ -20,6 +20,9 @@ AA_Ibibio_Voice/
 |   └── checkpoint-3740/                    # 4th Best Model
 |   └── checkpoint-3960/                    # 3rd Model
 |   └── runs/                               # Information on runs
+├── Consent for for Ibibio Dataset.docx     # Consent Form Sent to Participants
+├── Ibibio_Phrase_List.pdf                  # Consent Form Sent to Participants
+├── Ibibio_Recording_Instructions.docx      # Recording Instructions sent to participants
 └── README.md                  # This file
 ```
 
